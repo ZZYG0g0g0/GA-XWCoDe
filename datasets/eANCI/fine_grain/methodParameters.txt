@@ -1,0 +1,55 @@
+String login String password String login String login String login Accesso newAccesso Accesso ac String login
+String login String password String tipo
+String matricola Amministratore newAdmin String matricola Amministratore newAdmin String matricola String login String nomeAmm String cognAmm
+String nome String cognome String matricola String email String login
+String code String citta String res String list int n String stat String prof double stat String hair String eyes String listSp Date data Date datas boolean val
+String cod int id
+String log int idCittadino String surname String name Date data String luogo String mail boolean ad int nf String cod_fis
+String login int idCitt String newLogin int idCittadino String email Cittadino cittadino String nome String cognome int idCitt int idCitt int idCitt int newid int idCitt String nome int idCitt String cognome
+String n String i
+HttpServletRequest request HttpServletResponse response
+Accesso a String log String log String login String login String password String log Accesso a
+Amministratore a String matr String nomeAmm String cognAmm String matrAmm String log String matr Amministratore a
+String cod String cod String v int nc
+String cod String cod CartaIdentita c String cod String v String cod int nc String cod String via int nc String cod java.util.Date d String cod java.util.Date d String cod boolean esp int idC
+Cittadino citt int idCitt String newname int idCitt String newsurname int idCitt String newcf int idCitt String newmail int idCitt int idCitt int idCitt String name String surname int idC String newLogin String log String cf String surname String name int id int idCitt int newnucleo
+Comune c String nome String nome
+
+
+Impiegato i String matr String nomeImp String cognImp String matrImp String log String matr Impiegato a
+NucleoFamiliare nf int id int id int id int id int idF int idC int id int idF int n
+Richiesta ric int id int id int idR int idR String stato int idR String tipo int idR String stato
+String nome String cognome String matricola String email String login
+String matricola Impiegato newImpiegato String matricola Impiegato newImpiegato String matricola String login String nomeImp String cognImp
+int str int str String str int str
+NucleoFamiliare nf int id int id int id int IdCitt int id int id int id
+int str String str String str int str String str String str
+HttpServletRequest request HttpServletResponse response
+HttpServletRequest request HttpServletResponse response
+HttpServletRequest request HttpServletResponse response String indirnew String num_civnew HttpServletRequest request HttpServletResponse response
+HttpServletRequest request HttpServletResponse response
+HttpServletRequest request HttpServletResponse response
+HttpServletRequest request HttpServletResponse response
+HttpServletRequest request HttpServletResponse response
+HttpServletRequest request HttpServletResponse response
+HttpServletRequest request HttpServletResponse response
+HttpServletRequest request HttpServletResponse response
+HttpServletRequest request HttpServletResponse response
+HttpServletRequest request HttpServletResponse response
+HttpServletRequest request HttpServletResponse response
+HttpServletRequest request HttpServletResponse response
+HttpServletRequest request HttpServletResponse response
+HttpServletRequest request HttpServletResponse response
+HttpServletRequest request HttpServletResponse response
+ServletConfig conf int id_citizen String date File from String nome String tipo HttpServletRequest request HttpServletResponse response File dir String file
+HttpServletRequest request HttpServletResponse response
+HttpServletRequest request HttpServletResponse response
+HttpServletRequest request HttpServletResponse response
+HttpServletRequest request HttpServletResponse response
+HttpServletRequest request HttpServletResponse response
+HttpServletRequest request HttpServletResponse response
+HttpServletRequest request HttpServletResponse response
+HttpServletRequest request HttpServletResponse response
+HttpServletRequest request HttpServletResponse response
+HttpServletRequest request HttpServletResponse response
+HttpServletRequest request HttpServletResponse response

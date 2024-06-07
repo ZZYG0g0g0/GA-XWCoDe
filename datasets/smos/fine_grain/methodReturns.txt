@@ -1,0 +1,99 @@
+int getIdAbsence void setIdAbsence int getIdUser void setIdUser Date getDateAbsence void setDateAbsence Integer getIdJustify void setIdJustify int getAcademicYear void setAcademicYear
+String buildLabel
+int getIdAddress void setIdAddress String getName void setName
+int getAcademicYear void setAcademicYear int getIdAddress void setIdAddress int getIdClassroom void setIdClassroom String getName void setName String toString
+
+int activeSize void clearActive void closeAllConnections void closeAllConnections void closeAllPooledConnections Connection createNewConnection Connection getConnection Connection getConnection int getLoginTimeout PrintWriter getLogWriter int getMaxPoolSize Connection getPooledConnection int poolSize void release void setActivedTimeout void setLastTime void setLoginTimeout void setLogWriter String toString void connectionEvent void run
+PreparedStatement cachePreparedStatement Statement cacheStatement void clearWarnings void close void closeAndReleaseStatements void closeWrappedConnection void commit Statement createStatement Statement createStatement Statement createStatement void finalize boolean getAutoCommit String getCatalog int getHoldability DatabaseMetaData getMetaData int getTransactionIsolation Map getTypeMap SQLWarning getWarnings boolean isClosed boolean isReadOnly String nativeSQL CallableStatement prepareCall CallableStatement prepareCall CallableStatement prepareCall PreparedStatement prepareStatement PreparedStatement prepareStatement PreparedStatement prepareStatement PreparedStatement prepareStatement PreparedStatement prepareStatement PreparedStatement prepareStatement void releaseSavepoint void rollback void rollback void setAutoCommit void setCatalog void setHoldability void setReadOnly Savepoint setSavepoint Savepoint setSavepoint void setTransactionIsolation String toString void setTypeMap
+void run
+Connection getConnection void loadPool void releaseConnection
+
+int getIdDelay void setIdDelay int getIdUser void setIdUser Date getDateDelay void setDateDelay String getTimeDelay void setTimeDelay int getAcademicYear void setAcademicYear
+
+
+
+
+String getPoolPropertiesPath void setPoolPropertiesPath
+int getIdJustify void setIdJustify int getIdUser void setIdUser Date getDateJustify void setDateJustify int getAcademicYear void setAcademicYear
+
+void sendMail
+ManagerAddress getInstance boolean hasTeaching boolean exists void insert void delete void assignTeachingAsAddress void removeTeachingAsAddress int getAddressId Address getAddressById Collection<Address> getAddressList String getAddressNameById Collection<Integer> getAddressTechings Address loadRecordFromRs Collection<Address> loadRecordsFromRs Collection<Integer> loadIntegersFromRs
+ManagerClassroom getInstance boolean exists void insert void update void delete Collection<Classroom> getClassroomsByStudent Classroom getClassroomByID Collection<Classroom> getClassroomsByAcademicYear Collection<Integer> getAcademicYearList Classroom getClassroomByUserAcademicYear Collection<Classroom> getClassroomsByTeacherAcademicYear Collection<Classroom> getClassroomsByTeacher Collection<Integer> loadIntegersFromRs Classroom loadRecordFromRs Collection<Classroom> loadRecordsFromRs
+ManagerRegister getInstance boolean exists boolean exists boolean exists void insertAbsence void insertDelay void insertNote void insertJustify void deleteAbsence void deleteDelay void deleteNote void deleteJustify void updateAbsence void updateDelay void updateNote void updateJustify Note getNoteById Absence getAbsenceByIdJustify Absence getAbsenceByIdAbsence Delay getDelayById Justify getJustifyByIdJustify boolean hasJustify Justify getJustifyByAbsence Collection<Absence> getAbsenceByIDUserAndAcademicYear Collection<Note> getNoteByIDUserAndAcademicYear Absence getAbsenceByIDUserAndDate Delay getDelayByIDUserAndDate Collection<RegisterLine> getRegisterByClassIDAndDate boolean hasAbsence boolean hasDelay Absence loadAbsenceFromRs Justify loadJustifyFromRs Note loadNoteFromRs Delay loadDelayFromRs
+ManagerTeaching getInstance boolean exists void insert void update void delete int getTeachingId String getTeachingNameById Teaching getTeachingById Collection<Teaching> getTeachings Collection<Teaching> getTeachingsByUserId Collection<Teaching> getTeachingsByUserIdClassID boolean hasTeacher Collection<Teaching> getTeachingsByClassroomId Collection<Teaching> getTeachingsByClassroomName Collection<Teaching> getTeachingsByIdUserIdClassroom Teaching loadRecordFromRs Collection<Teaching> loadRecordsFromRs
+
+ManagerVotes getInstance boolean exists void insert void update int getIdVotes void delete Votes getVotesById String getTeachingIdByVotesId Collection<Votes> getVotes Collection<Votes> getVotesByUserId Collection<Votes> getVotesByUserIdYearTurn void deleteVotesByUserIdYearTurn Votes loadRecordFromRs Collection<Votes> loadRecordsFromRs
+
+int getIdNote void setIdNote int getIdUser void setIdUser Date getDateNote void setDateNote String getDescription void setDescription String getTeacher void setTeacher int getAcademicYear void setAcademicYear
+
+
+UserListItem getStudent void setStudent Absence getAbsence void setAbsence Delay getDelay void setDelay
+Votes getVotes void addVotes void remove String ToString
+
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void init
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+void doGet void doPost
+String getName void setName int getId void setId
+void main
+String getLogin void setLogin String getName String getFirstName void setFirstName String getPassword void setPassword String getLastName void setLastName int getId void setId String toString String getEMail void setEMail String getCell void setCell int getIdParent void setIdParent
+int getId void setId String getName void setName String getEMail void setEMail
+void main
+
+int getId_votes void setId_votes int getId_user void setId_user int getTeaching void setTeaching int getWritten void setWritten int getOral void setOral int getLaboratory void setLaboratory int getAccademicYear void setAccademicYear int getTurn void setTurn String toString

@@ -1,0 +1,55 @@
+boolean controllaAccesso boolean controllaLogin Accesso getAccesso boolean modificaAccesso boolean inserisciAccesso boolean eliminaAccesso Collection<Accesso> getAccessi
+String getLogin void setLogin String getPassword void setPassword String getTipo void setTipo String toString
+boolean modificaAdmin Amministratore ricercaAdminByMatricola boolean inserisciAdmin String eliminaAmministratore Amministratore getAmministratoreByLogin Collection<Amministratore> getAmministratoreByName Collection<Amministratore> getAmministratori
+String getNome void setNome String getCognome void setCognome String getMatricola void setMatricola String getEmail void setEmail String getLogin void setLogin String toString
+int id void setNumero String getNumero void setCittadinanza String getCittadinanza String getResidenza void setResidenza void setVia String getVia int getNumCivico void setNumCivico void setStatoCivile String getStatoCivile void setProfessione String getProfessione void setStatura double getStatura void setCapelli String getCapelli void setOcchi String getOcchi String getSegniParticolari void setSegniParticolari void setDataRilascio Date getDataRilascio void setDataScadenza Date getDataScadenza void setValiditaEspatrio boolean isValidaEspatrio String toString
+CartaIdentita getCartaByNumero CartaIdentita getCartaByIdCStri
+String getLogin void setLogin int getIdCittadino void setIdCittadino String getCognome void setCognome String getNome void setNome Date getDataNascita void setDataNascita void setLuogoNascita String getLuogoNascita String getEmail void setEmail boolean isAdvertise void setIsAdvertise void setNucleoFamiliare int getNucleoFamiliare String getCodiceFiscale void setCodiceFiscale String toString
+Cittadino getCittadinoByLogin boolean modificaLogin boolean modificaEmail int inserisciCittadino Collection<Cittadino> ricercaCittadino boolean cancellaCittadino Cittadino getCittadinoById boolean modificaNucleoFamiliare boolean modificaNome boolean modificaCognome
+String getNome String setNome String getIndirizzoId String setIndirizzoId
+void doPost
+boolean inserisciAccesso boolean eliminaAccesso Accesso getAccesso Collection<Accesso> getAccessi boolean controllaLogin boolean controllaAccesso boolean modificaAccesso
+boolean inserisciAmministratore boolean eliminaAmministratore Collection<Amministratore> getAmministratoreByName Amministratore getAmministratoreByMatricola Collection<Amministratore> getAmministratori Amministratore getAmministratoreByLogin boolean modificaAmministratore
+boolean changeResidence CartaIdentita changeResidenceIn
+CartaIdentita ricercaCartaIdentitaByNumero boolean cancellaCartaIdentita boolean registraCartaIdentita boolean modificaViaCartaIdentita boolean modificaNumeroCivicoCartaIdentita boolean modificaResidenzaCartaIdentita boolean modificaDataRilascioCartaIdentita boolean modificaDataScadenzaCartaIdentita boolean modificaValidaEspatrio CartaIdentita ricercaCartaIdentitaByProprietario
+int registraCittadino boolean modificaNomeCittadino boolean modificaCognomeCittadino boolean modificaCodiceFiscaleCittadino boolean modificaEmailCittadino boolean modificaAdvertise boolean cancellaCittadino Cittadino getCittadinoByCodice Collection<Cittadino> getCittadinoByName boolean modificaLogin Cittadino getCittadinoByLogin int maxID int findIdCittadino String findCodiceFiscale boolean modificaNucleoFamiliareCittadino
+boolean inserisciComune boolean eliminaComune Comune getComuneByName
+void createPool Connection getConnection void loadDbProperties void closePool
+
+boolean inserisciImpiegato boolean eliminaImpiegato Collection<Impiegato> getImpiegatoByName Impiegato getImpiegatoByMatricola Collection<Impiegato> getImpiegati Impiegato getImpiegatoByLogin boolean modificaImpiegato
+int inserisciNucleoFamiliare boolean eliminaNucleoFamiliare Collection<Cittadino> getStatoFamiglia boolean controllaIdFamiglia String noteFamiglia boolean setCapoFamiglia NucleoFamiliare getNucleoFamiliareById int lastId boolean setnComponenti
+boolean inserisciRichiesta boolean eliminaRichiesta Richiesta getRichiestaById Collection<Richiesta> getRichiestaByRichiedente Collection<Richiesta> getRichiestaByStato Collection<Richiesta> getRichiestaByTipo boolean setStatoRichiesta Collection<Richiesta> getRichieste
+String getNome void setNome String getCognome void setCognome String getMatricola void setMatricola String getEmail void setEmail String getLogin void setLogin String toString
+boolean modificaImpiegato Impiegato ricercaImpiegatoByMatricola boolean inserisciImpiegato boolean eliminaImpiegato Impiegato getImpiegatoByLogin Collection<Impiegato> getImpiegatoByName Collection<Impiegato> getImpiegati
+int getIdNucleoFamiliare int setIdNucleoFamiliare int getCapoFamiglia int setCapoFamiglia String getNote String setNote int getNComponenti int setNComponenti
+int inserisciNucleo boolean controllaidFamiglia int getNComponentiNucleo boolean setCapoFamiglia boolean incrementaComponenti boolean decrementaComponenti NucleoFamiliare getNucleo
+int getIdRichiesta int setIdRichiesta String getTipo String setTipo String getData String setData int getRichiedente int setRichiedente String getStato String setStato String getDocumento String setDocumento boolean isAccettata boolean isRifiutata
+void doGet
+void doGet
+void doPost void aggiornaDB void cancellaDB
+void doPost
+void doPost
+void doPost
+void doPost
+void doPost
+void doPost
+void doPost int creaNucleoF
+void doPost
+void doPost
+void doGet
+void doPost
+void doPost
+void doPost int creaNucleoF
+void doPost
+void init String main File esploraFile void doPost boolean accept
+void doGet
+void doGet
+void doPost String generaPassword
+void doPost
+void doPost
+void doPost
+void doPost
+void doPost
+void doPost
+void doGet
+void doGet

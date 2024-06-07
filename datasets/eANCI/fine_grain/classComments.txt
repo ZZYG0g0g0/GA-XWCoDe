@@ -1,0 +1,55 @@
+/**  * La classe AccessManager interagisce con le classi di gestione del database  * La classe AccessManager non ha dipendenze  * @author Federico Cinque  */
+/**  * La classe Accesso permette la gestione degli accessi  * La classe Accesso non ha dipendenze  * @author Federico Cinque  */
+/**  * La classe AdminManager interagisce con le classi di gestione del database  * La classe AdminManager non ha dipendenze  * @author Federico Cinque  */
+/**  * La classe Amministratore permette la gestione degli amministratori  * La classe Amministratore non ha dipendenze  * @author Federico Cinque  */
+/**  * � un JavaBean che gestisce i metodi di settaggio  * e restituzione degli attributi della carta  * di identit� di un cittadino  * @author Francesco  */
+/**  * La classe CIManager interagisce con le classi di gestione del database  * La classe CIManager non ha dipendenze  * @author Federico Cinque  */
+/**  * � un JavaBean che gestisce i metodi  * get e set degli attributi di un Cittadino  * @author Francesco  */
+/**  * La classe CittadinoManager interagisce con le classi di gestione del database  * La classe CittadinoManager non ha dipendenze  * @author Federico Cinque  */
+/**  * La classe Comune permette la comunicazione con gli altri comuni  * @author Antonio Leone  * @version 1.0  */
+
+
+
+/**  * Classe che si occupa di gestire le connessioni con il database  *  e di schermare le servet con il DBMS.  * @author Michelangelo Cianciulli  */
+
+
+
+
+/**  * La classe DbException viene lanciata quando si verifica un eccezione legata al db  * @author Antonio Leone  * @version 1.0  */
+
+
+
+/**  * La classe Impiegato permette solo all'amministratore la gestione degli impiegati  * La classe Impiegato non ha dipendenze  * @author Federico Cinque  */
+/**  * La classe ImpiegatoManager interagisce con le classi di gestione del database  * La classe ImpiegatoManager non ha dipendenze  * @author Federico Cinque  */
+/**  * Questa classe si occupa di gestire lo stato di famiglia del cittadino  * @author Christian Ronca  */
+/**  * La classe NucleoFamiliareManager interagisce con le classi di gestione del database  * La classe NucleoFamiliareManager non ha dipendenze  * @author Federico Cinque  */
+/**  * Classe che gestisce i metodi dell'oggetto Richiesta  * @author 	Christian Ronca  * @version 1.0  */
+/**  * La classe ServletAnnulla annulla l'operazione che l'utente stava eseguendo  * La classe ServletAnnulla non ha dipendenze  * @author Federico Cinque  */
+
+
+
+
+/**  * La classe ServletEliminaAmministratore ricerca ed elimina un amministratore  * La classe ServletEliminaAmministratore non ha dipendenze  * @author Federico Cinque  */
+/**  * La classe ServletEliminaCittadino ricerca ed elimina un cittadino  * La classe ServletEliminaCittadino non ha dipendenze  * @author Federico Cinque  */
+/**  * La classe ServletEliminaImpiegato ricerca ed elimina un impiegato  * La classe ServletEliminaImpiegato non ha dipendenze  * @author Federico Cinque  */
+/**  * La classe ServletInserisciAmministratore inserisce un amministratore nel database  * La classe ServletInserisciAmministratore non ha dipendenze  * @author Federico Cinque  */
+/**  * La classe ServletInserisciCittadino inserisce un cittadino nel database  * La classe ServletInserisciCittadino non ha dipendenze  * @author Federico Cinque  */
+/**  * La classe ServletInserisciImpiegato inserisce un impiegato nel database  * La classe ServletInserisciImpiegato non ha dipendenze  * @author Federico Cinque  */
+/**  * La classe ServletLogin effettua l'operazione di autenticazione di un utente nel sistema  * La classe ServletLogin non ha dipendenze  * @author Federico Cinque  */
+/**  * La classe ServletLogout effettua l'operazione di logout di un utente dal sistema  * La classe ServletLogout non ha dipendenze  * @author Federico Cinque  */
+/**  * La classe ServletModificaAccesso che effettua l'operazione di modifica di un accesso  * La classe ServletModificaAccesso non ha dipendenze  * @author Federico Cinque  */
+/**  * La classe ServletModificaAmministratore che effettua l'operazione di modifica di un amministratore  * La classe ServletModificaAmministratore non ha dipendenze  * @author Federico Cinque  */
+/**  * La classe ServletModificaCittadino che effettua l'operazione di modifica di un cittadino  * La classe ServletModificaCittadino non ha dipendenze  * @author Federico Cinque  */
+/**  * La classe ServletModificaImpiegato che effettua l'operazione di modifica di un impiegato  * La classe ServletModificaImpiegato non ha dipendenze  * @author Federico Cinque  */
+/**  * metodo che cerca i file contenenti  * le richieste di cambio di residenza  * da parte dei cittadini.Tale cartella viene  * salvata sul server su cui l'impiegato  * pu� accedervi per reperire le informazioni  * utili alla compilazione del modulo  * che deve essere registrato all'interno  * dell'archivio comunale  */
+/**  * La classe ServletMostraAccesso mostra i dati relativi all'accesso di un impieagto o amministratore  * La classe ServletMostraAccesso non ha dipendenze  * @author Federico Cinque  */
+/**  * La classe ServletMostraAccessoA mostra i dati relativi all'accesso di un cittadino  * La classe ServletMostraAccessoA non ha dipendenze  * @author Federico Cinque  */
+/**  * La classe ServletRecuperoPassword gestisce l'operazione di recupero password per un cittadino  * La classe ServletRecuperoPassword non ha dipendenze  * @author Federico Cinque  */
+/**  * La classe ServletRegistraCittadino gestisce l'operazione di registrazione  * di un cittadino nel sistema  * La classe ServletRegistraCittadino non ha dipendenze  * @author Federico Cinque  */
+/**  * La classe ServletRicercaAmministratore ricerca e restituisce i dati di un amministratore  * La classe ServletRicercaAmministratore non ha dipendenze  * @author Federico Cinque  */
+/**  * La classe ServletRicercaCittadino ricerca e restituisce i dati di un cittadino  * La classe ServletRicercaCittadino non ha dipendenze  * @author Federico Cinque  */
+/**  * La classe ServletRicercaImpiegato ricerca e restituisce i dati di un impiegato  * La classe ServletRicercaImpiegato non ha dipendenze  * @author Federico Cinque  */
+
+
+
+

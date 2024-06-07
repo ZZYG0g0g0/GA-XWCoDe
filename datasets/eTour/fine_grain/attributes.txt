@@ -1,0 +1,116 @@
+long serialVersionUID IDBNews dbNews
+long serialVersionUID IDBBanner dbBanner
+long serialVersionUID
+long serialVersionUID DBTourist tourist BeanTourist bTourist
+
+JPanel jContentPane JPanel rightPanel JToolBar bannerToolbar JButton btnInsert JButton btnReplace JButton btnDelete JScrollPane JScrollPane JPanel helpPanel JTextPane textGuide TagPanel panelTag JButton btnSearch JButton btnActive JPanel panelSearch JTextField namePR JTree treeBanner JDesktopPane JDesktopPane HelpManager bannerHelp DeskManager desktopManager IRefreshmentPointAgencyManager refreshmentPointManager IAdvertisementAgencyManager bannerManager ITagCommonManager tags Component glass
+Dimension bannerSize JLabel preview JButton btnLoad JPanel that
+int id
+
+long serialVersionUID int id int idRefreshmentPoint String filepath
+long serialVersionUID int id int maxBanner Date startDate Date endDate double price boolean active int idRefreshmentPoint
+long serialVersionUID int id int ratingNumber String name String city String phone String description String location String street String cap String province String closingDay Point3D position Date openingTime Date closingTime double ticketCost double averageRating
+int id String name double price int idMenu long serialVersionUID
+long serialVersionUID int id int dimensioneFont String font String subject int idTourist
+long serialVersionUID int id String day int idRefreshmentPoint
+String news Date dataPublication Date dataDeadline int priority int id long serialVersionUID
+long serialVersionUID int id String username String name String lastName String password
+int id String name String surname String username String password String email int idRefreshmentPoint long serialVersionUID
+long serialVersionUID int id int ratingNumber double averageRating String name String description String phone String location String city String street String cap String province String party Point3D position Date openingTime Date closingTime String closingDay
+long serialVersionUID int id String name
+long serialVersionUID int id String name String description
+long serialVersionUID int id String username String name String surname String cityNascita String cityResidenza String phone String cap String street String province String email String password Date dob Date dataRegistration boolean active
+long serialVersionUID int rating int idCulturalHeritage String comment int IdTourist Date dataVisit
+long serialVersionUID int rating int idRefreshmentPoint String comment int IdTourist Date dataVisit
+String[] txts String[] help JPanel jContentPane JToolBar toolbarCardBC JToggleButton btnModify JButton btnSave JButton btnCancel JButton btnModifyComment JTabbedPane jTabbedPane JPanel statistics JPanel feedback JTextField address2 JComboBox address1 JTextField cityBC JTextField locationBC JTextField capBC JTextField posGeoX JScrollPane jScrollPane JTextArea descriptionBC JTextField phoneBC JComboBox hoursAP JComboBox minAP TagPanel panelTag JTextField costBC JComboBox Oreca JComboBox mince JComboBox provBC JPanel dataBC JTextField nameBC JScrollPane scrollPaneFeedback JTable tableFeedback JLabel txtNameBene JLabel averageRatingBC JPanel statMonthCurrent JPanel statTotal JTextField posGeoY JTextField posGeoZ Vector<JLabel> suggestions BeanCulturalHeritage bc JComboBox closingDay JLabel[] statMonthC JLabel[] statt CulturalHeritage parent FeedBackTableModel feedbackModel ITagCommonManager tags ICulturalHeritageAgencyManager managerBC ArrayList<Integer> idTag
+JPanel jContentPane JToolBar toolbarCardBC JToggleButton btnModify JButton btnSave JButton btnCancel JButton btnModifyComment JTabbedPane jTabbedPane JPanel statistics JPanel feedback JLabel txtName JLabel txtAddress JLabel txtCAP JLabel txtCity JLabel txtLocation JLabel txtProvince JLabel txtPos JLabel txtPhone JLabel txtOraAp JLabel txtOraCh JLabel jLabel JTextField addressPR JComboBox addressPR1 JTextField cityPR JComboBox locationPR JTextField capPR JScrollPane jScrollPane JTextArea descriptionPR JTextField phonePR JComboBox scheduleAPOrePR JLabel jLabel1 JComboBox scheduleApMinPR TagTableModel panelTag JTextField costBC JLabel jLabel3 JComboBox scheduleCHMinPR JComboBox provPR JPanel dataPR JTextField namePR JPanel jPanel JScrollPane jScrollPane2 JTable feedbackTable JLabel txtNameBene JLabel averageRatingPR JPanel statisticMonthCurrent JPanel statisticTotal JLabel jLabel4 JLabel jLabel41 ActionListener campoCompilato FocusListener validating JToolBar ToolbarCardPR JTextField posGeoX JTextField posGeoY JTextField posGeoZ JLabel jLabel2 JComboBox scheduleCHOrePR int limit
+long serialVersionUID String name Hashtable<String, float[]> terms
+String letter String numbers int max_length
+
+
+JDesktopPane JDesktopPane JPanel jContentPane JToolBar BCToolbar JButton btnNewBC JButton btnCardBC JButton btnDeleteBC JButton btnModifyBC JPanel rightPanel JPanel searchPanel JPanel helpPanel JScrollPane JScrollPane JTable tableBC TagPanel panelTag JTextPane textGuide JTextField nameBC JButton btnSearch JButton btnActive DeskManager desktopManager ArrayList<CardBC> children SiteTableModel TableModel HelpManager bcHelp ICulturalHeritageAgencyManager managerBC ITagCommonManager tags ICulturalHeritageCommonManager searchBC
+
+
+IDBCulturalHeritage dbbc IDBTag dbtag IDBVisitBC dbvisita IDBTourist dbturista
+
+
+int NUM_TEST
+String driver String urlConnection List<Connection> freeConnections
+int NUM_TEST
+ArrayList<BeanCulturalHeritage> b
+
+
+
+
+int NUM_TEST
+
+
+
+ArrayList<BeanTag> b
+
+
+
+String URL_IMAGES JPopupMenu deskMenu JMenuItem reduceAll JMenuItem restoreAll JMenuItem closeAll Vector<JInternalFrame> iconifiedFrames int locationX int locationY
+String ERROR_CONNECTION_DBMS String ERROR_DBMS String ERROR_UNKNOWN String ERROR_FORMAT_BEAN String ERROR_DATA String ERROR_FILE String ERROR_NUM_BANNER
+long serialVersionUID String[] headers Class[] columnClasses ArrayList<Object[]> data
+
+int MAX_PRIORITY_NEWS int MIN_PRIORITY_NEWS int MAX_NEWS_ACTIVE String SERVER_IMAGE_PATH String server_url long THIRTY_DAYS
+HashMap<String, String> dictionary JTextComponent destination String previousMessage
+
+
+
+byte VISITORS byte OP_PUNTO_DI_RISTORO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+byte BENE_CULTURALE byte PUNTO_DI_RISTORO
+
+
+
+
+long serialVersionUID int maxLength
+long serialVersionUID Hashtable<String, Category> categories Hashtable<String, float[]> totTerms float maxDist
+JPanel jContentPane JToolBar NewsToolbar JButton btnDeleteN JPanel rightPanel JPanel formNews JSlider prSlider JButton btnInsertModify JButton btnReset JPanel panelHelp JTextPane textGuide JScrollPane scrollTableNews JTable tableNews JTextArea textNews JComboBox durationNews JButton btnModifyN JLabel labelCharaters int idNews NewsTableModel TableModel HelpManager newsHelp DeskManager desktopManager JDesktopPane JDesktopPane IAdvertisementAgencyManager managerNews
+
+String name String surname String residenceCity String phone String cap String address String email String password String username Date dateOfBirth
+double EARTH_RADIUS double latitude double longitude double altitude
+
+
+int id
+Dimension size JPanel jContentPane JPanel rightPanel JToolBar toolbarPR JLabel status JPanel CentrePanel JButton btnSkeda JButton btnModify JButton btnDelete JScrollPane jScrollPane JPanel HelpPanel JTextPane jTextPane TagPanel panelTag JButton btnSearch2 JButton btnActive2 JPanel SearchPanel JLabel LabelPr JTextField namePR JLabel LabelTag JTable TablePr JDesktopPane JDesktopPane RefreshmentPoint internalFrame JButton btnActive JButton btnHistorical
+long serialVersionUID
+long serialVersionUID IDBRefreshmentPoint refreshmentPoint IDBTag tag IDBVisitPR feed IDBTourist dbTourist
+long serialVersionUID Vector<String> data JPanel jContentPane JToolBar JToolBar JComboBox JComboBox JPanel centralPanel JScrollPane JScrollPane JTable tables JPanel southPanel JTabbedPane JTabbedPane JPanel guideline JTextPane jTextPane JPanel genStat JPanel evdStat JPanel stat JPanel JPanel JButton JButton JButton jButton1 JButton jButton2 JLabel jLabel1 JLabel jLabel2 JLabel jLabel3 JLabel jLabel4 JLabel jLabel5 JLabel jLabel6 JLabel jLabel7 JLabel jLabel8 JLabel jLabel9 JPanel JPanel1 JLabel jLabel10 JLabel jLabel11 JLabel jLabel12 JLabel jLabel13 JLabel jLabel14 JLabel jLabel15 JLabel jLabel16 JLabel jLabel17 JLabel jLabel18 JLabel jLabel19 JLabel jLabel20 JLabel jLabel21 JLabel jLabel22 JButton btnView JLabel JLabel
+long serialVersionUID String[] headers Class[] columnClasses Vector<Object[]> data
+
+int maxUnitIncrement
+long serialVersionUID int pIdTourist String pKeyword double pMaxRadius Point3D pUserPosition int pElementsPerPage byte pSiteType IDBCulturalHeritage CulturalHeritage IDBRefreshmentPoint RefreshmentPoint IDBTag Tag ArrayList<BeanTag> pTags Hashtable<Integer, ArrayList<BeanCulturalHeritage>> resultSearchCulturalHeritage Hashtable<Integer, ArrayList<BeanRefreshmentPoint>> resultSearchRefreshmentPoint int numberPageResult int numberElementsSearch
+String[] columnNames Object[][] cells Point3D sitePosition Point3D myLocation
+
+JPanel jContentPane JPanel CenterPanel JPanel EastPanel JScrollPane JScrollPane JTable JTable JToolBar jJToolBarBar JButton btnModify JButton btnDelete JButton btnExit JPanel jPanelUp JPanel jPanelHelp JTextPane jTextPane JLabel tagname JTextField JTextField JLabel description JTextArea JTextArea JButton btnOK JButton btnReset
+long serialVersionUID
+long serialVersionUID IDBTag tags
+long serialVersionUID String[] headers Class[] columnClasses Vector<Object[]> data
+
+JPanel jContentPane JToolBar toolbarTourist JButton btnModifyData JScrollPane scrollTableTourist JTable tableTourist JPanel searchPanel JTextField surnameTourist JPanel panelHelp JTextPane textGuide JPanel rightPanel JButton btnActive JButton btnViewCard JButton btnDelete TouristTableModel TableModel JToggleButton inactiveTourist JToggleButton activeTourist JButton btnActive2 JButton btnSearch DeskManager desktopManager JDesktopPane jDesktopPane ArrayList<TouristCard> children
+IDBVisitBC feedbackBC IDBVisitPR feedbackPR
+String[] help JPanel jContentPane JToolBar toolbarscheda JToggleButton btnModify JButton btnSave JButton btnReset JTabbedPane jTabbedPane JTextField address2 JComboBox address1 JTextField city JTextField cap JTextField phone JComboBox province JPanel dataTourist JTextField name Vector<JLabel> suggestions BeanTourist tourist JTextField surname JComboBox day JComboBox month JComboBox years JTextField placeOfBirth JTextField email JTextField username JPasswordField password JLabel dataRegistration Tourist parent
+long serialVersionUID IDBTourist profileTourist IDBGenericPreference prefGenTourist IDBSearchPreference prefRicTourist IDBVisitBC visitedBC IDBVisitPR visitedPR IDBCulturalHeritage culturalHeritage IDBRefreshmentPoint refreshmentPoint
+IDBTourist tourist
+String[] headers Class[] columnClasses Vector<Object[]> data

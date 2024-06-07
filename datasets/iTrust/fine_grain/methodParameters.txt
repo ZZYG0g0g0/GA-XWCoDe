@@ -1,0 +1,86 @@
+int mins Connection conn int mins
+PersonnelBean p
+PatientBean p
+PatientBean p
+PersonnelBean p
+long patientMID RemoteMonitoringDataBean rmdBean long pid
+PersonnelBean p
+long mid AdverseEventBean aeBean long hcpmid int id int id int id String code String code String start String end String start String end
+long pid long pid String description
+Long mid Role role String password String question String answer long mid long mid long mid long mid String password long mid long mid String ipAddr String ipAddr String ipAddr String ipAddr String ipAddr int failureCount Connection conn String ipAddr int failureCount Connection conn String ipAddr Connection conn String ipAddr String ipAddr Connection conn long mid
+String minuteString
+
+String code ProcedureBean proc ProcedureBean proc
+String hcpStr String input
+DiagnosisBean d
+String firstDrug String secondDrug String description String firstDrug String secondDrug String drugCode
+String drugCode String firstDrug String secondDrug String description String firstDrug String secondDrug
+long pid HealthRecordForm hr long pid HealthRecordForm form long pid
+long patientMID TelemedicineBean tBean long patientMID long patientMID long pid
+List<HospitalBean> hcpsHospitals List<HospitalBean> allHospitals EditOfficeVisitForm form TransactionType trans long hcpID String patID String problem EditOfficeVisitForm form OfficeVisitBean bean
+PatientBean p String filter long mid
+PersonnelBean personnelForm String filter
+long pid String description long visitID long visitID FamilyMemberBean member FamilyMemberBean member FamilyMemberBean member FamilyMemberBean member FamilyMemberBean member FamilyMemberBean member FamilyMemberBean member
+long pid String pidString String input
+Email email
+
+long pid long pid long pid long pid String relation String query boolean secondParam
+String inputMID
+ReminderType type long mid long pid int count Date patientDOB long time int count Date patientDOB long time int count Date patientDOB long time int count Date patientDOB long time int count Date patientDOB long time int count Date patientDOB long time long firstDoseTime int count Date patientDOB long time long firstDoseTime int count Date patientDOB long time int count Date patientDOB long time int count Date patientDOB long time Date patientDOB int years int months int weeks Date patientDOB Date ageFirst int years int months int weeks Date startTime Date endTime int years int months int weeks
+long mid HealthRecord record
+
+HospitalBean h
+String id HospitalBean hosp HospitalBean hosp long hcpID String hospitalID long hcpID String hospitalID long hcpID long hcpID
+String code DiagnosisBean diag DiagnosisBean diag
+long id long ovid long id long id long mid long mid long ovid long ovid long mid long mid long pid long mid long ovid LabProcedureBean b LabProcedureBean b LabProcedureBean b long pid long id String loinc LabProcedureBean b long procedureID long id long id long id long mid long mid long id String numericalResult String numericalResultUnit String upper String lower long id long id long id
+long id long x long x
+LabProcedureBean b LabProcedureBean b long id long pid
+LOINCbean m
+LOINCbean hosp String visitID LOINCbean ov
+MedicationBean m
+long mid long mid long mid long mid long mid long mid long mid long mid MessageBean mBean MessageBean mBean
+boolean isPrescription String start String end long MID long patientMID String message int id
+String icdcode long hcpid String icdcode HCPDiagnosisBean a HCPDiagnosisBean b
+String code MedicationBean med MedicationBean med MedicationBean med
+OfficeVisitBean ov PreparedStatement ps OfficeVisitBean ov OfficeVisitBean ov long visitID ResultSet rs long visitID long ovID long pid long pid long mid long pid String hospitalID String icdcode
+long mid long mid String role long mid PatientBean p long hcpid long pid long hcpid long pid long mid long pid long pid long pid long hcpID long pid long hcpID long pid long hcpid long pid long pid long representer long representee long representer long representee long representer long representee long pid long pid long pid long patientID long patientID long patientID long hcpMID String first String last
+PatientBean p
+long mid Role role Role role long mid PersonnelBean p long pid long mid long hcpid PrescriptionBean prescription String first String last
+PersonnelBean p
+ProcedureBean p
+long ovid long mid long id long messageID long referralID long messageID long mid long mid long mid long mid long mid ReferralBean r ReferralBean r long id long mid long mid long pid String sortField SortDirection dir String sortField SortDirection dir String sortField SortDirection dir
+long patientMID long loggedInMID long patientMID Date lower Date upper long patientMID String dataType long patientMID RemoteMonitoringDataBean bean String reporterRole long reporterMID long patientMID String dataType long representativeMID long patientMID long patientMID long patientMID long HCPMID TelemedicineBean tBean long patientMID long HCPMID
+RemoteMonitoringDataBean m
+List<AdverseEventBean> aeList AdverseEventBean aeBean AdverseEventBean aeBean
+long id long mid long pid long requesterMID long patientMID Date date long ID Date date
+String midString String ipAddress long mid String role String answer long mid long mid String role String answer String password String confirmPassword String ipAddr long mid String role String password String confirmPassword
+
+String firstName String lastName String firstName String lastName
+SecurityQA bean
+MessageBean mBean long mid long mid long pid
+HttpSessionEvent arg0 HttpSessionEvent arg0
+SecurityQA a long mid
+SurveyBean surveyBean long visitID long ovID
+SurveyBean surveyBean Date date long id long visitID
+String zip String specialty String hospitalID String specialty
+TransactionType type long loggedInMID TransactionType type long loggedInMID long secondaryMID String addedInfo long patientID long dlhcpID boolean getByRole long mid long dlhcpID java.util.Date start int range long patientID long dlhcpID java.util.Date lower java.util.Date upper boolean getByRole List<TransactionBean> tbList long patientID boolean sortByRole
+
+
+ProcedureBean proc ProcedureBean proc ProcedureBean proc
+HospitalBean hosp HospitalBean hosp HospitalBean hosp
+DiagnosisBean diagn DiagnosisBean diagn
+LOINCbean diagn LOINCbean diagn
+MedicationBean med MedicationBean med MedicationBean med MedicationBean med
+long patientID PrescriptionBean prescription long patientID
+String lowerDate String upperDate String logMID boolean getByRole List<TransactionBean> accesses List<TransactionBean> accesses long pid
+String filter List<MessageBean> messages String filter long mid long mid MessageBean mBean long id
+String labCode String input long mid long mid long mid long visitID long visitID long visitID long id String loincID List<LabProcedureBean> procs FamilyMemberBean member FamilyMemberBean member FamilyMemberBean member FamilyMemberBean member FamilyMemberBean member FamilyMemberBean member FamilyMemberBean member
+long patientMID String startDate String endDate long patientMID String dataType long pid
+long patientMID int ID int ID long id
+PatientBean pb String date
+long patientID PrescriptionBean prescription long patientID
+
+long pid long pid long pid long pid long mid long mid
+SurveyResultBean bean SurveyResultBean bean
+PersonnelBean pb String visitDate PersonnelBean pb String lastName String specialty String zip String lastName String specialty String zip String name String name String name long mid String lastName String specialty String zip
+long hcpid long hcpid long hcpid

@@ -1,0 +1,55 @@
+DbAccesso dbAccesso
+String Login String Password String Tipo
+DbAmministratore dbAmministratore
+String Nome String Cognome String Matricola String Email String Login
+String Numero int idCittadino String Cittadinanza String Residenza String Via String StatoCivile String Professione double Statura String Capelli String Occhi String SegniParticolari Date DataRilascio Date DataScadenza boolean ValidaEspatrio int num_civico
+DbCartaIdentita dbCartaIdentita
+CartaIdentita ci int idCittadino String CodiceFiscale String Cognome String Nome Date DataNascita String LuogoNascita String Email boolean Advertise int nucleoFamiliare String Login
+DbCittadino dbCittadino
+String nome String indirizzoIp
+
+Connection connection
+Connection connection
+Connection connection
+Connection connection
+Connection connection
+Connection connection
+Properties dbProperties ComboPooledDataSource cpds
+long serialVersionUID
+Connection connection
+Connection connection
+Connection connection
+String Nome String Cognome String Matricola String Email String Login
+DbImpiegato dbImpiegato
+int idNucleoFamiliare int capoFamiglia String nota int nComponenti
+DbNucleoFamiliare nucleoF
+int idRichiesta String tipo String data int richiedente String stato String documento
+
+
+long serialVersionUID HttpSession session
+long serialVersionUID
+long serialVersionUID HttpSession session
+
+
+
+String nome String cognome String email String matricola String login String password String tipo
+String nome String cognome String cf int giorno int mese int anno Date dataN String luogoN String email boolean advertise int idNF String login String tipo Cittadino cittadino NucleoFamiliareManager NFM
+String nome String cognome String email String matricola String login String password String tipo
+
+
+String login String password String cpassword String tipo
+String nome String cognome String email String matricola String login String password String tipo
+String nome String cognome String email int idNF Cittadino cittadino NucleoFamiliareManager NFM CittadinoManager CM
+String nome String cognome String email String matricola String login String password String tipo
+int count File to String interno File from String tipo String nome
+
+
+String email String ci String login String tipo
+String nome String cognome String email String ci String cf String login String password String tipo
+
+
+
+
+
+long serialVersionUID
+long serialVersionUID

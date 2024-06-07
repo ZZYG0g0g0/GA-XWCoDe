@@ -1,0 +1,116 @@
+/**  * Implementing the management advertisement  * For the operator agency. Contains methods for managing  * News.  */
+/**  * Class that implements the general Management advertisement.  */
+/**  * Class that implements management services of the advertisement For the operator  * eating place.  */
+
+/**  * This class creates a custom renderer for the average ratings of a Site. <  */
+/**  * This class implements the interface for the management of advertising banners  * By the operator of the agency.  */
+/**  * This class realizes the panel for the dialog for entering a New banner or a  * banner for replacing selected.  */
+/**  * This class creates a node in a JTree to store Information about a banner.  */
+
+/**  * Bean which contains data on the Banner  */
+/**  * Bean containing information relating to a Convention  */
+
+
+
+/**  * Bean containing information relating to a Menu  */
+
+/**  * Bean containing information relating to an Agency Operator  */
+/**  * Bean containing information relating to food  */
+
+/**  * Bean which contains data search preferences  */
+
+/**  * Bean containing information relating to a tourist  */
+/**  * Bean containing information relating to the feedback of a cultural  */
+/**  * Bean that contains the data for feedback to a refreshment  */
+/**  * Class that models the interface for viewing the card, Modify the data and the  * insertion of a new cultural object.  */
+/**  * Class that models the interface for viewing the card, Modify the data and the  * insertion of a new resting spot.  */
+
+/**  * Class for managing the control of the correctness of the strings  */
+/**  * Class that contains static methods that perform Consistency checks on the  * data bean banner And news.  */
+/**  * This is the entry point of the control server. This class is responsible for  * Make the deployment of services on the RMI registry, thus rendering the Some  * services are available and usable.  */
+/**  * Class that implements the interface for the management of cultural side  * Operator Agency.  */
+/**  * Class management of cultural heritage unique to Agency  */
+/**  * This class has the task of checking the data of a cultural object. Various  * consistency checks are performed, such as length of strings, Null reference,  * dynamic types incorrect.  */
+/**  * Class management of cultural heritage for operations common to all actors  */
+/**  * This class has the task of monitoring data from a cultural visit. Various  * consistency checks are performed, such as length of strings, Null reference,  * dynamic types incorrect.  */
+/**  * Class that implements the Agency's Operator  */
+
+/**  * Class that creates the connection to the database using JDBC and Allows you  * to query both read and edit the contents of Database. E 'implemented to  * provide a pool of connections to Provide a connection to each thread.  */
+/**  * Attribute_Definition  */
+
+/**  * Class that implements the interface plate  */
+/**  * Implementing the IDBGenericPreference  */
+/**  * Class that implements the local statistical  */
+/**  * Class that implements the interface Menu  */
+
+/**  * Class that implements the interface of Refreshment  */
+/**  * Class that implements the interface Operator Refreshment  */
+/**  * Class that implements the interface SearchPreference  */
+
+
+
+/**  * Class that implements the interface IDBVisitPR  */
+/**  * Class for handling custom internal frame inserted in a JDesktopPane.  */
+/**  * Standard error message self-describing  */
+/**  * Container model of data for feedback received To be a cultural or a  * refreshment.  */
+/**  * Class that implements the methods used to calculate the Fuzzy Category of  * membership of a refreshment or a cultural property.  */
+/**  * Class that contains the constants of the environmental system.  */
+/**  * This class realizes the mechanism of sensitive help Context.  */
+
+/**  * Interface General Manager of Banner and news.  */
+/**  * Interface that provides management services for advertisement  * Operator eating place.  */
+/**  * Interface relating to operations performed by the User login and logout  * Register  */
+/**  * Interface for operations peculiar cultural heritage by Operator Agency.  */
+/**  * Interface for operations common to users and operators on Agency  */
+/**  * Interface for managing the database OperatorAgency  */
+
+/**  * Interface for managing the database Business  */
+
+/**  * Interface for the management of food in the database  */
+/**  * Interface for handling general preferences in database  */
+/**  * Interface for managing the menu in the database  */
+/**  * Interface for the management of news in the Database  */
+/**  * Interface for management of eateries in the database  */
+/**  * Interface for the operator to the point of comfort in the database  */
+/**  * Interface for managing search preferences in database  */
+/**  * Interface for managing the database Tag  */
+/**  * Interface for the management of tourists in the database  */
+/**  * Interface for handling feedback on a given asset Cultural  */
+/**  * Interface for managing feedback related to a specific point Refreshments  */
+/**  * Interface for refreshments on the side of the agency  */
+/**  * Interface for common operations on the refreshment  */
+/**  * Interface for management of research  */
+/**  * Interface for the tag handler by the Operator Agency  */
+/**  * Common interface for managing Tag  *  * @Author Joseph Morelli @Version 0.1 2007 eTour Project - Copyright by SE @  * SA Lab DMI University Of Salerno  */
+/**  * Interface for handling tourists from the side of the transaction Agency  */
+/**  * Interface on the Management of Tourist Information  */
+
+
+/**  * This class implements the interface for collecting news for the actor  * Operator Agency.  */
+
+
+
+/**  * This class creates a custom renderer for Objects of type Punto3D. <  */
+/**  * This class creates a custom renderer JSlider as Of the priorities in the  * table of news.  */
+/**  * This class creates a node in a JTree to store Information for a  * refreshment.  */
+
+/**  * Class  methods for managing Refreshments by Operator Agency  */
+/**  * Class that implements the common tasks for the operator of dining and For the  * Operator Agency  */
+
+
+
+/**  * Create a custom JTable that can be displayed through Components that enable  * scrolling.  */
+
+
+/**  * Class for managing Standard Search  */
+
+/**  * Class that implements the methods for the functionality of the Operator  * Agency Extending the class of common Tag Management  */
+/**  * Class that implements the common tasks for the use of tags  */
+
+
+/**  * This class implements the interface for the management of tourists Agency by  * the Operator.  */
+/**  * Class that implements the interface for managing the side Tourists Agency and  * extends UnicastRemoteObject for communication in remote Provides basic  * methods for handling and additional methods for returning Tourists with  * special characteristics of  */
+/**  * Class that models the interface for displaying the card and Modify the data  * of an account tourist.  */
+
+/**  * Class that implements the common tasks for Operators and Tourist Agency Ie  * modifyTourist and getTourist  */
+/**  * <b> TouristTableModel </ b>  * <p>  * Acts as a container of data from the tourists who have Be displayed in a  * JTable. </ P>  */

@@ -1,0 +1,99 @@
+long serialVersionUID int idAbsence int idUser Date dateAbsence Integer idJustify int academicYear
+long serialVersionUID
+long serialVersionUID int idAddress String name
+long serialVersionUID int idClassroom int idAddress String name int academicYear
+long serialVersionUID
+List<SMOSConnection> active Properties config ConnectionCloser connectionCloser Driver driver String fullConnectionString long inactiveMaxTimeout int maxPoolSize List<Connection> pool long connectionActionTimestamp int connectionPoolCloseTimeout long timeStamp
+long serialVersionUID Logger LOGGER Connection connection ConnectionPoolDataSource manager ArrayList<Statement> statements
+ConnectionPoolDataSource manager int waitTimeout
+int ACTIVE_TIMEOUT String DRIVER_MYSQL String FULL_PATH_DATABASE ControlConnection linker ConnectionPoolDataSource manager int MAX_POOL_SIZE String PASSWORD int POOL_TIMEOUT Properties properties String USER_NAME int WAIT_TIMEOUT
+long serialVersionUID
+long serialVersionUID int idDelay int idUser Date dateDelay String timeDelay int academicYear
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+String DEFAULT_ERROR_MESSAGE String poolPropertiesPath
+long serialVersionUID int idJustify int idUser Date dateJustify int academicYear
+long serialVersionUID
+
+ManagerAddress instance String TABLE_ADDRESS String TABLE_ADDRESS_HAS_TEACHING
+ManagerClassroom instance String TABLE_CLASSROOM String TABLE_ADDRESS String TABLE_TEACHER_HAS_CLASSROOM String TABLE_STUDENT_HAS_CLASSROOM
+ManagerRegister instance String TABLE_ABSENCE String TABLE_DELAY String TABLE_JUSTIFY String TABLE_NOTE
+ManagerTeaching instance String TABLE_TEACHING String TABLE_ADDRESS_TEACHINGS String TABLE_TEACHER_CLASSROOM
+
+ManagerVotes instance String TABLE_VOTES
+long serialVersionUID
+long serialVersionUID int idNote int idUser Date dateNote String description String teacher int academicYear
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID UserListItem student Absence absence Delay delay
+ArrayList<Votes> pagella
+long serialVersionUID int ADMIN int TEACHER int STUDENT int PARENT int ATA int DIRECTOR
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID ServletConfig config
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID
+long serialVersionUID int id_teaching String name
+
+long serialVersionUID int id String login String password String firstName String lastName int idParent String cell String eMail
+long serialVersionUID String name String eMail int id
+
+
+long serialVersionUID int id_votes int id_user int teaching int written int oral int laboratory int accademicYear int turn

@@ -1,0 +1,116 @@
+int pNewsID BeanNews pNews BeanNews pNews
+int pIdBanner int pBannerID ImageIcon pImage int pIdRefreshmentPoint int pIdRefreshmentPoint ImageIcon pImageBanner
+
+String pUsername String pPassword byte pUsertype
+JTable pTable Object pValue boolean pSelected boolean pFocus int prow int pColumn
+DefaultMutableTreeNode pSelectedNode InternalFrameEvent s
+ImageIcon pBanner
+int pId ImageIcon pImage
+JTree pTree Object pValue boolean pSelected boolean pExpanded boolean pLeaf int prow boolean pHasFocus
+String pPathFile int pId int pIdRefreshmentPoint
+boolean active Date pDataEnd Date pDataStart int pMaxBanner double pPrice int pId int pIdRefreshmentPoint
+String pClosingDay String pCap String pCity double pTicketCost String pDescription String pLocation double pAverageRating String pName int pRatingNumber Date pString Date pClosingTime Point3D pPosition String pProvince String pPhone String pStreet int pId
+String pName double pPrice int pId int pIdMenu
+int pDimensioneFont String pFont String pTheme int pIdTourist int pId
+String pDay int pId int pIdRefreshmentPoint
+Date pDataPublication Date pDataDeadline String pNews int pPriority int pId
+String pSurname String pName String pPassword String pUsername int pId
+String pSurname String pEmail String pName String pPassword String pUsername int pIdRefreshmentPoint int pId
+String pCap String pCity String pDescription String pClosingDay String pLocation double pAverageRating String pName int pRatingNumber Date pOpeningTime Date pClosingTime String pParty Point3D pPosition String pProvince String pPhone String pStreet int pId
+String pName int pId
+String pDescription String pName int pId
+String pCap String pCityNascita String pCityResidenza String pSurname Date pDateOfBirth Date pDataRegistration String pEmail String pName String pPassword String pProvince String pPhone String pStreet boolean Patti String pUsername int pId
+String pComment Date pDataVisit int pIdCulturalHeritage int pIdTourist int pRating
+String pComment Date pDataVisit int pIdRefreshmentPoint int pIdTourist int pRating
+
+int pOffset String pStr AttributeSet Pattra
+String pTerms String pTerm String pTerm float[] pVal String pTerm float[] pVal Hashtable<String, float[]> pTerm String pTerms
+String pString boolean lettersAllowed boolean numbersAllowed String charactersAllowed String charactersNecessary int minCharacterNumber int maxCharacterNumber String pString boolean lettersAllowed boolean numbersAllowed String charactersAllowed int maxNumberCharacters String pData Date pDataStart Date pDataEnd BeanTourist pTourist BeanSearchPreference pSearchPreference BeanGenericPreference pGenericPreference BeanCulturalHeritage pCulturalHeritage BeanRefreshmentPoint pRefreshmentPoint BeanOperatorRefreshmentPoint pOperaotoreRefreshmentPoint BeanBanner pBanner ImageIcon image BeanNews pNews BeanTag ptagi BeanConvention pConvention BeanMenu pMenu BeanDish pDish BeanVisitBC pVisitBC BeanVisitPR pVisitPR
+BeanBanner pBanner BeanNews pNews
+String[] args
+BeanCulturalHeritage PBC CardBC pCard BeanCulturalHeritage pBc boolean pModify boolean pSearch
+int pCulturalHeritageID BeanCulturalHeritage pCulturalHeritage BeanCulturalHeritage pCulturalHeritage int pCulturalHeritageID int pTagID int pCulturalHeritageID int pTagID
+BeanCulturalHeritage pBC BeanCulturalHeritage pBC BeanCulturalHeritage pBC int pid
+int pCulturalHeritageID int pCulturalHeritageID int pCulturalHeritageID int pCulturalHeritageID int pCulturalHeritageID BeanVisitBC pBeanVisitBC
+BeanVisitBC pVBC BeanVisitBC pBC
+String pUsername BeanOperatorAgency pOa
+int pIdBanner BeanBanner pBanner BeanBanner pBanner int pIdRefreshmentPoint int pIdBanner int num_test
+Connection pReleasedConnection
+int pIdConvention int idRefreshmentPoint BeanConvention pConvention BeanConvention pConvention int pIdRefreshmentPoint int num_test
+int pIdBene BeanCulturalHeritage pBene BeanCulturalHeritage pBene int pid String pKeyword ArrayList<BeanTag> pTags Point3D pPosition double pMaxDistance int pIdTourist String PKeyword ArrayList<BeanTag> pTags Point3D pPosition double pMaxDistance String pKeyword ArrayList<BeanTag> pTags int pNumPage int pNumberElementsPerPage Point3D pPosition double pMaxDistance int pIdTourist String PKeyword ArrayList<BeanTag> pTags int pNumPage int pNumberElementsPerPage Point3D pPosition double pMaxDistance
+int pIdDish BeanDish pDish BeanDish pDish int pIdMenu
+int pIdPreference BeanGenericPreference pPreference BeanGenericPreference pPreference int pIdTourist
+String pLocation
+int pIdMenu BeanMenu pMenu BeanMenu pMenu int pIdRefreshmentPoint int pIdRefreshmentPoint String pDay
+int pIdNews BeanNews pNews BeanNews pNews int num_test
+int pIdRefreshmentPoint BeanRefreshmentPoint pRefreshmentPoint BeanRefreshmentPoint pRefreshmentPoint String pKeyword ArrayList<BeanTag> pTags Point3D pPosition double pMaxDistance int pIdTourist String pKeyword ArrayList<BeanTag> pTags Point3D pPosition double pMaxDistance int pid String pKeyword ArrayList<BeanTag> pTags int pNumberPage int pNumberElementsPerPage Point3D pPosition double pMaxDistance int pIdTourist String pKeyword ArrayList<BeanTag> pTags int pNumberPage int pNumberElementsPerPage Point3D pPosition double pMaxDistance
+int pIdOperator BeanOperatorRefreshmentPoint pOperator BeanOperatorRefreshmentPoint pOperator int pIdOperator
+int pIdPreference int pIdCulturalHeritage int pIdSearchPreference int pIdRefreshmentPoint int pIdPreference int pIdTourist int pIdPreference int pIdCulturalHeritage int pIdSearchPreference BeanSearchPreference pPreference int pIdRefreshmentPoint int pIdSearchPreference int pIdTourist int pIdSearchPreference int pIdCulturalHeritage int pIdRefreshmentPoint int pIdTourist
+int pIdCulturalHeritage int pIdTag int pIdRefreshmentPoint int pIdTag int pIdTag int pIdCulturalHeritage int pIdTag int pIdRefreshmentPoint int pIdTag BeanTag ptagi BeanTag ptagi int pid int pIdCulturalHeritage int pIdRefreshmentPoint
+int pIdTourist int pIdCulturalHeritage int pIdTourist int pIdRefreshmentPoint int pIdTourist int pIdTourist int pIdCulturalHeritage int pIdTourist int pIdRefreshmentPoint BeanTourist pTourist BeanTourist pTourist String pUsername int pIdTourist String pUsernameTourist boolean condition
+BeanVisitBC PVIS BeanVisitBC PVIS int pIdCulturalHeritage int pIdTourist int pIdCulturalHeritage int pIdTourist
+BeanVisitPR pVisit BeanVisitPR pVisit int pIdRefreshmentPoint int pIdTourist int pIdRefreshmentPoint int pIdTourist
+JComponent aComponent int x int y JInternalFrame frame JInternalFrame frame JInternalFrame frame JInternalFrame frame JDesktopPane desk JDesktopPane desk Class classe JDesktopPane desk Point Pointe JDesktopPane desk JDesktopPane desk JDesktopPane desk
+
+int pColumn int pRow int pColumn int pColumn int pRow int pColumn Object value int row int col BeanVisitBC pVisitBC String pUsername BeanVisitPR pVisitPR String pUsername String pNewComment int pRow int pRow int pRow
+float distance float pMaxDist String pTerms Hashtable<String, float[]> pTotTerms float textFrequency Category pCategory String pTerms Category pCategory Hashtable<String, float[]> pTotTerms float a float b float a float b Hashtable<String, float[]> pTerm float val float maxSimilarity String pStr String pDescription Hashtable<String, float[]> pTextCategory String pStr Hashtable<String, float[]> pTable String path
+
+MouseEvent pMouseEnteredEvent
+BeanNews pNews int pNewsID BeanNews pNews
+int pIdRefreshmentPoint ImageIcon pImageBanner int pBannerID int pBannerID ImageIcon pImage int pIdRefreshmentPoint
+
+String pUsername String pPassword byte pUsertype
+BeanCulturalHeritage pCulturalHeritage int pCulturalHeritageID BeanCulturalHeritage pCulturalHeritage int pCulturalHeritageID int pTagID int pCulturalHeritageID int pTagID
+int pCulturalHeritageID int pCulturalHeritageID int pCulturalHeritageID int pCulturalHeritageID int pCulturalHeritageID BeanVisitBC pBeanVisitBC
+String pUsername BeanOperatorAgency poa
+BeanBanner pBanner BeanBanner pBanner int pIdBanner int pIdRefreshmentPoint int pIdBanner
+BeanConvention pConvention BeanConvention pConvention int pIdConvention int idRefreshmentPoint int pIdRefreshmentPoint
+BeanCulturalHeritage pBene BeanCulturalHeritage pBene int pIdBene int pId String pKeyword ArrayList<BeanTag> pTags int pNumPage int pNumberElementsPerPage Point3D pPosition double pMaxDistance int pIdTourist String PKeyword ArrayList<BeanTag> pTags int pNumPage int pNumberElementsPerPage Point3D pPosition double pMaxDistance String pKeyword ArrayList<BeanTag> pTags Point3D pPosition double pMaxDistance int pIdTourist String PKeyword ArrayList<BeanTag> pTags Point3D pPosition double pMaxDistance
+BeanDish pDish BeanDish pDish int pIdDish int pIdMenu
+BeanGenericPreference pPreference BeanGenericPreference pPreference int pIdPreference int pIdTourist
+BeanMenu pMenu BeanMenu pMenu int pIdMenu int pIdRefreshmentPoint String pDay int pIdRefreshmentPoint
+BeanNews pNews BeanNews pNews int pIdNews
+BeanRefreshmentPoint pRefreshmentPoint BeanRefreshmentPoint pRefreshmentPoint int pIdRefreshmentPoint int pId int pIdTourist String PKeyword ArrayList<BeanTag> pTags int pNumberPage int pNumberElementsPerPage Point3D pPosition double pMaxDistance int pIdTourist String PKeyword ArrayList<BeanTag> pTags Point3D pPosition double pMaxDistance String pKeyword ArrayList<BeanTag> pTags int pNumberPage int pNumberElementsPerPage Point3D pPosition double pMaxDistance String pKeyword ArrayList<BeanTag> pTags Point3D pPosition double pMaxDistance
+BeanOperatorRefreshmentPoint pOperator BeanOperatorRefreshmentPoint pOperator int pIdOperator int pIdOperator
+BeanSearchPreference pPreference int pIdPreference int pIdTourist int pIdCulturalHeritage int pIdRefreshmentPoint int pIdCulturalHeritage int pIdSearchPreference int pIdTourist int pIdSearchPreference int pIdRefreshmentPoint int pIdSearchPreference int pIdTourist int pIdPreference int pIdCulturalHeritage int pIdSearchPreference int pIdRefreshmentPoint int pIdPreference
+BeanTag pTag BeanTag pTag int pIdTag int pId int pIdCulturalHeritage int pIdTag int pIdRefreshmentPoint int pIdTag int pIdCulturalHeritage int pIdRefreshmentPoint int pIdCulturalHeritage int pIdTag int pIdRefreshmentPoint int pIdTag
+BeanTourist pTourist BeanTourist pTourist int pIdTourist String pUsername int pIdTourist int pIdCulturalHeritage int pIdTourist int pIdRefreshmentPoint int pIdTourist int pIdCulturalHeritage int pIdTourist int pIdRefreshmentPoint String pUsernameTourist boolean condition int pIdTourist int pIdTourist int pIdTourist
+BeanVisitBC PVIS BeanVisitBC PVIS int pIdCulturalHeritage int pIdTourist int pIdCulturalHeritage int pIdTourist
+BeanVisitPR PVIS BeanVisitPR PVIS int pIdRefreshmentPoint int pIdRefreshmentPoint int pIdTourist int pIdTourist
+BeanRefreshmentPoint pRefreshmentPoint int pRefreshmentPointID boolean statusConvention int pRefreshmentPointID BeanConvention pConv int pRefreshmentPointID BeanRefreshmentPoint pRefreshmentPointupdated int pRefreshmentPointId int pTagId int pRefreshmentPointId int pTagId
+int pRefreshmentPointID int pRefreshmentPointID int pRefreshmentPointID int pRefreshmentPointID int pRefreshmentPointId BeanVisitPR newVisit
+int pIdTourist String pKeyword int[] pTagsId double pMaxRadius int pElementsPerPage Point3D pUserPosition byte pSiteType int pPage int pPage
+BeanTag pTagNew int pTagID BeanTag pTagChanged int pTagID
+
+int pIdTourist int pIdTourist int pIdTourist boolean statusAccount int pIdTourist int pIdTourist
+BeanTourist pTourist BeanGenericPreference pGenericPreference int pIdTourist BeanGenericPreference pGenericPreferencNew int pIdTourist int pIdTourist BeanSearchPreference pSearchPreference int pIdTourist int pIdTourist int pIdSearchPreference int pIdTourist int pIdTourist BeanVisitBC pVisitBC BeanVisitPR pVisitPR int pIdTourist int pIdCulturalHeritage int pIdTourist int pIdRefreshmentPoint int pIdTourist int pIdCulturalHeritage int pIdTourist int pIdRefreshmentPoint int pIdTourist int pIdTourist
+int pOffset String pString AttributeSet pAttribute
+String pCategoryName String pTerms String pCategoryName Category pCategory String pCategoryName Category pCategory String pTerms float[] pVal float pMaxDist String pKey String pKey
+
+
+String name String surname String par1 String phone String par1 String address String email String password String username Date dateOfBirth
+double pLatitude double pLongitude double pAltitude Point3D p double pLatitude double pLongitude double pAltitude
+JTable pTable Object pValue boolean pSelected boolean pHasFocus int prow int pColumn
+JTable pTable Object pValue boolean pIsSelected boolean pHasFocus int pRow int pColumn
+int pId String pName
+
+int pRefreshmentPointID BeanRefreshmentPoint pRefreshmentPoint boolean statusConvention BeanRefreshmentPoint pRefreshmentPointupdated int pRefreshmentPointID int pRefreshmentPointID BeanConvention pConv int pRefreshmentPointID int pRefreshmentPointId int pTagId int pRefreshmentPointId int pTagId
+int pRefreshmentPointID int pRefreshmentPointID int pRefreshmentPointID int pRefreshmentPointID int pRefreshmentPointId BeanVisitPR newVisit
+JComboBox combo
+int col int row int col int col int row int col Object value int row int col Object[] value int row
+
+Rectangle visibleRect int orientation int direction Rectangle visibleRect int orientation int direction
+int pIdTourist String pKeyword int[] pTagsId double pMaxRadius int pElementsPerPage Point3D pUserPosition byte pSiteType int pPage int pPage int pNumberPage int nPage int pPage int[] pTagsId
+int r int c int c
+int pNumberPage
+
+int pTagID BeanTag pTagNew BeanTag pTagChanged int pTagID BeanTag toControl
+
+int pCol int pRow int pCol int pCol int row int col Object value int row int col
+
+BeanTourist pTourist boolean pModify JInternalFrame pCard BeanTourist pTourist
+boolean statusAccount int pIdTourist int pIdTourist int pIdTourist int pIdTourist int pIdTourist
+
+int pIdTourist int pIdSearchPreference int pIdTourist int pIdTourist BeanSearchPreference pSearchPreference BeanGenericPreference pGenericPreference BeanTourist pTourist BeanGenericPreference pGenericPreferenceNuove int pIdTourist int pIdTourist BeanTourist pprofileTourist int pIdTourist int pIdTourist BeanVisitBC pVisitBC BeanVisitPR pVisitPR int pIdTourist int pIdCulturalHeritage int pIdTourist int pIdRefreshmentPoint int pIdTourist int pIdCulturalHeritage int pIdTourist int pIdRefreshmentPoint int pIdTourist int pIdTourist
+BeanTourist pProfileTourist int pIdTourist
+int pColumn int pRow int pColumn int pColumn int pRow int pColumn Object value int row int col int pRow int pRow BeanTourist pTourist BeanTourist pTourist int pRow int pRow
